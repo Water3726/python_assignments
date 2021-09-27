@@ -1,0 +1,1 @@
+print("Hello, Worldskills\nPassworD is Cloud$$\n\tddd")
