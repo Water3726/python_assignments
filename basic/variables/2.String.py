@@ -1,3 +1,3 @@
-s = "hello!" 
+s = "hello" 
 t = "worldskills" 
-print (s,t)
+print (s+'!',t)
