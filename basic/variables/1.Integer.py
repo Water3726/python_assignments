@@ -1,2 +1,2 @@
 i = 35
-print (i)
+print(35)
