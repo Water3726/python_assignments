@@ -1,2 +1,2 @@
-num =str(53)
-print (num)
+num = 53
+print (str(num))

@@ -1,2 +1,2 @@
-str = int("53")
-print (str)
+str = "53"
+print (int(str))
