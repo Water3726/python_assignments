@@ -5,5 +5,3 @@ for i in b:
     print(i, end=" ")
 
 
-# c = [str(a) for a in b]
-# print(" " . join(c))
